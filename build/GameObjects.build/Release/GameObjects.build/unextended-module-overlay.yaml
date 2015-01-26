@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/bryn/projects/_swift/GameObjects/build/Release/GameObjects.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/bryn/projects/_swift/GameObjects/build/GameObjects.build/Release/GameObjects.build/unextended-module.modulemap',
+    }]
+  }]
+}

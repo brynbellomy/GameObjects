@@ -1,0 +1,1 @@
+ const unsigned char GameObjectsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:GameObjects  PROJECT:GameObjects-1" "\n"; const double GameObjectsVersionNumber __attribute__ ((used)) = (double)1.;

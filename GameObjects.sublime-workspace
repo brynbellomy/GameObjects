@@ -1,0 +1,2119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"E",
+				"Element"
+			],
+			[
+				"for",
+				"formattedNumber"
+			],
+			[
+				"end",
+				"end	end:"
+			],
+			[
+				"proto",
+				"protocol-variable-declaration"
+			],
+			[
+				"a-zA",
+				"a-zA-Z0-9_"
+			],
+			[
+				"begin",
+				"beginCaptures	beginCaptures:"
+			],
+			[
+				"cre",
+				"creepBehaviors"
+			],
+			[
+				"scene",
+				"sceneUpdateObservers"
+			],
+			[
+				"Play",
+				"PlaylistID"
+			],
+			[
+				"manag",
+				"inManagedObjectContext"
+			],
+			[
+				"dispo",
+				"disposable1"
+			],
+			[
+				"currentl",
+				"currentlyPlayingItem"
+			],
+			[
+				"curre",
+				"currentlyPlayingIndex"
+			],
+			[
+				"currenT",
+				"currentItemIndex"
+			],
+			[
+				"dispat",
+				"dispatch_async_main"
+			],
+			[
+				"icon",
+				"iconForItem"
+			],
+			[
+				"badge",
+				"badgeValueForItem"
+			],
+			[
+				"PXSourc",
+				"PXSourceListItem"
+			],
+			[
+				"sourceLi",
+				"sourceListItems"
+			],
+			[
+				"_aud",
+				"_audioPlayerDelegateWrapper"
+			],
+			[
+				"audi",
+				"audioPlayer"
+			],
+			[
+				"with",
+				"withBufferSize"
+			],
+			[
+				"EZA",
+				"EZAudioPlayerDelegateSwift"
+			],
+			[
+				"Audio",
+				"AudioManagerPlaybackTimeObserver"
+			],
+			[
+				"lae",
+				"label_trackDuration"
+			],
+			[
+				"label_",
+				"label_trackTitle"
+			],
+			[
+				"SEPla",
+				"SEPlaylistModel"
+			],
+			[
+				"SEPlay",
+				"SEPlaylistItem"
+			],
+			[
+				"SEPlaylis",
+				"SEPlaylistModel"
+			],
+			[
+				"asset",
+				"assetWithURL"
+			],
+			[
+				"current",
+				"currentItemIndex"
+			],
+			[
+				"willS",
+				"willSet	willSet {...}"
+			],
+			[
+				"didSet",
+				"didSet	didSet {...}"
+			],
+			[
+				"collection",
+				"collection_playlist"
+			],
+			[
+				"nib",
+				"nibNameOrNil"
+			],
+			[
+				"SEAudio",
+				"SEAudioManagerDataSource"
+			],
+			[
+				"string",
+				"stringByReplacingOccurrencesOfString"
+			],
+			[
+				"bryn_",
+				"bryn_prepend_path"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"track",
+				"trackName"
+			],
+			[
+				"col-m",
+				"col-md-8"
+			],
+			[
+				"soundcloud",
+				"soundcloudTrackID"
+			],
+			[
+				"acti",
+				"activeClass"
+			],
+			[
+				"remove",
+				"removeActiveClass"
+			],
+			[
+				"carousel-",
+				"carousel-illumntr-home"
+			],
+			[
+				"tangl",
+				"tangled-with-bear--release-2013"
+			],
+			[
+				"gulf-h",
+				"gulf-hymn--release-2014"
+			],
+			[
+				"Static",
+				"StaticPagesListItem"
+			],
+			[
+				"pho",
+				"phoneStripped"
+			],
+			[
+				"bk_",
+				"bk_resultsOfRegex"
+			],
+			[
+				"data",
+				"databaseID"
+			],
+			[
+				"Vi",
+				"VideoListItem.java	File"
+			],
+			[
+				"stat",
+				"staticPagesDataStore"
+			],
+			[
+				"ListItem",
+				"ListItemCellViewWrapper"
+			],
+			[
+				"getL",
+				"getListViewCellLayoutID"
+			],
+			[
+				"get",
+				"getListViewCellTextResourceID"
+			],
+			[
+				"list",
+				"listItemCellTextResourceID"
+			],
+			[
+				"render",
+				"renderedCategory"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"genera",
+				"generateHTMLForItem"
+			],
+			[
+				"load",
+				"loadedItem"
+			],
+			[
+				"Ship",
+				"ShipCategory.java	File"
+			],
+			[
+				"fetchAll",
+				"fetchAllParentsOfItem"
+			],
+			[
+				"search",
+				"searchStringUppercased"
+			],
+			[
+				"initialize",
+				"initializedDataStores"
+			],
+			[
+				"initia",
+				"initializedDataStores"
+			],
+			[
+				"L3L",
+				"L3ListItem.java	File"
+			],
+			[
+				"shipDataS",
+				"shipDataStoreManager"
+			],
+			[
+				"loaded",
+				"loadedItems"
+			],
+			[
+				"IData",
+				"IDataStoreManager.java	File"
+			],
+			[
+				"number",
+				"numberOfChildrenForItem"
+			],
+			[
+				"children",
+				"childrenOfItemWithID"
+			],
+			[
+				"pare",
+				"parentOfItem"
+			],
+			[
+				"IList",
+				"IListDataStore.java	File"
+			],
+			[
+				"onData",
+				"onDataStoresFinishedInitializing"
+			],
+			[
+				"onD",
+				"onProgressUpdate"
+			],
+			[
+				"onDa",
+				"onDataStoresInitializationProgress"
+			],
+			[
+				"Initialize",
+				"InitializeDataStoresAsyncTask"
+			],
+			[
+				"tool",
+				"toolbarTitle"
+			],
+			[
+				"curren",
+				"currentListItem"
+			],
+			[
+				"o",
+				"docRoot}	{@docRoot}"
+			],
+			[
+				"stati",
+				"staticPageData"
+			],
+			[
+				"ShipListI",
+				"ShipsListItem"
+			],
+			[
+				"paren",
+				"parentsOfItem"
+			],
+			[
+				"tapp",
+				"tappedItem"
+			],
+			[
+				"StaticP",
+				"StaticPageActivity"
+			],
+			[
+				"tapped",
+				"tappedItemIndex"
+			],
+			[
+				"click",
+				"clickedItemIndex"
+			],
+			[
+				"clicked",
+				"clickedShipDatabaseID"
+			],
+			[
+				"ShipsL",
+				"ShipsListItem"
+			],
+			[
+				"Shi",
+				"ShipsListItem"
+			],
+			[
+				"cu",
+				"currentKeywordFilter"
+			],
+			[
+				"imgButt",
+				"imgButtonStaticPages"
+			],
+			[
+				"imgSta",
+				"imgButtonStaticPages"
+			],
+			[
+				"imgS",
+				"imgButtonStaticPages"
+			],
+			[
+				"img",
+				"imgButtonShipReferenceGuide"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"curr",
+				"currentListItem"
+			],
+			[
+				"cur",
+				"currentListItem"
+			],
+			[
+				"assert",
+				"assertNotNull"
+			],
+			[
+				"StaticPa",
+				"StaticPagesListItem"
+			],
+			[
+				"htmlS",
+				"htmlSrcFilename"
+			],
+			[
+				"htmlSr",
+				"htmlSrc"
+			],
+			[
+				"inSt",
+				"inStream"
+			],
+			[
+				"inStrea",
+				"inStreamReader"
+			],
+			[
+				"blu",
+				"blueStart"
+			],
+			[
+				"gree",
+				"greenEnd"
+			],
+			[
+				"gr",
+				"greenStart"
+			],
+			[
+				"objec",
+				"objective-c"
+			],
+			[
+				"obj",
+				"objective-c"
+			],
+			[
+				"intere",
+				"interestsLink"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			],
+			[
+				"remo",
+				"remoterepository"
+			],
+			[
+				"loc",
+				"localrepository"
+			],
+			[
+				"Acc",
+				"Account"
+			],
+			[
+				"Obj",
+				"ObjC-StatelyNotificationRobot"
+			],
+			[
+				"Server",
+				"Server.start	server-start"
+			],
+			[
+				"wa",
+				"waterfallCb"
+			],
+			[
+				"ne",
+				"next_index"
+			],
+			[
+				"queu",
+				"queueify"
+			],
+			[
+				"cb",
+				"cb"
+			],
+			[
+				"copyFiles",
+				"copyFilesInTempDirToOutputDir"
+			],
+			[
+				"worker",
+				"workerCb"
+			],
+			[
+				"auto",
+				"autoCb"
+			],
+			[
+				"to",
+				"to_dir"
+			],
+			[
+				"in",
+				"inputFilename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"conv",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"news ",
+				"Set Syntax: New Swift"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"open gist",
+				"Gist: Open Gist"
+			],
+			[
+				"open resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"fold",
+				"SyntaxFold: Show Panel"
+			],
+			[
+				"fold ",
+				"SyntaxFold: Show Panel"
+			],
+			[
+				"fold all",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"fold all de",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"new swi",
+				"Set Syntax: New Swift"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"new sw",
+				"Set Syntax: New Swift"
+			],
+			[
+				"newsw",
+				"Set Syntax: New Swift"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"swift",
+				"Set Syntax: Swift"
+			],
+			[
+				"scop",
+				"Toggle ScopeAlways"
+			],
+			[
+				"newswi",
+				"Set Syntax: New Swift"
+			],
+			[
+				"swi",
+				"Set Syntax: Swift"
+			],
+			[
+				"swwi",
+				"Set Syntax: New Swift"
+			],
+			[
+				"newswift",
+				"Set Syntax: New Swift"
+			],
+			[
+				"news",
+				"Set Syntax: New Swift"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"colorpi",
+				"Color Picker"
+			],
+			[
+				"conver",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"convert",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synjasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"opene",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote ",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown (Github Flavored)"
+			],
+			[
+				"wor ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"open ever",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open ev",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"view in",
+				"File: New View into File"
+			],
+			[
+				"open everno",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"bryn ob",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"awk",
+				"Run Awk for thsi tab into new tab"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"viml",
+				"Set Syntax: VimL"
+			],
+			[
+				"fish",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"live",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"bryn",
+				"Set Syntax: Bryn Swift"
+			],
+			[
+				"bryn sw",
+				"Set Syntax: Bryn Swift"
+			],
+			[
+				"z:aaa",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"objce",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"vim",
+				"Set Syntax: VimL"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tree",
+				"JsonTree: Show Tree"
+			],
+			[
+				"json",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"plist",
+				"Set Syntax: plist"
+			],
+			[
+				"js2",
+				"JS2Coffee: Convert & Make New File"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"js2c",
+				"JS2Coffee: Convert & Make New File"
+			],
+			[
+				"plisttojson",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"plistto",
+				"z:AAAPackageDev: Property List to JSON"
+			],
+			[
+				"plisttojso",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"plisttojs",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"scope al",
+				"Toggle ScopeAlways"
+			],
+			[
+				"github flavor",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"color",
+				"Color Picker: Insert Color"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"htmlto",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"dispacka",
+				"Package Control: Disable Package"
+			],
+			[
+				"objc",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"brynjav",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"inser",
+				"Color Picker: Insert Color"
+			],
+			[
+				"aaajson",
+				"z:AAAPackageDev: JSON to Property List"
+			],
+			[
+				"aaajs",
+				"z:AAAPackageDev: JSON to Property List"
+			],
+			[
+				"wrap au",
+				"Word Wrap: Automatic Column"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"aaajso",
+				"z:AAAPackageDev: Property List to JSON"
+			],
+			[
+				"wrap 120",
+				"Word Wrap: Column 120"
+			],
+			[
+				"sublim",
+				"Set Syntax: Sublime Settings"
+			],
+			[
+				"synbryn",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"bryn j",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"insert",
+				"Color Picker: Insert Color"
+			],
+			[
+				"brynjava",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"java",
+				"Snippet: java.beans."
+			],
+			[
+				"synmarkdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synsyn",
+				"Set Syntax: Sublime Text Syntax Definition"
+			],
+			[
+				"restru",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"synjava",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"objecti",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"format",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"scheme",
+				"Schemr: List all schemes"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ross",
+				"Cross"
+			]
+		],
+		"width": 687.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Users/bryn/projects/_swift/GameObjects",
+		"/Users/bryn/projects/_swift/GameObjects/Classes",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/Builders",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/Components",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/SKExtensions"
+	],
+	"file_history":
+	[
+		"/Users/bryn/projects/_swift/GameObjects/Classes/Helpers.swift",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/SKSpriteNodeBuilder.swift",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/Components/PhysicalComponent.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Podfile",
+		"/Users/bryn/projects/_swift/GameObjects/GameObjects.podspec",
+		"/Users/bryn/projects/_swift/GameObjects/GameObjects/Info.plist",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/Builders/SKPhysicsBodyBuilder.swift",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/New Swift.YAML-tmLanguage",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bryn/projects/_dev-tools/tab-sets/index.coffee",
+		"/Users/bryn/projects/_swift/ArmsControl/ArmsControl.podspec",
+		"/Users/bryn/projects/_swift/ArmsControl/Podfile",
+		"/Users/bryn/projects/_swift/Funky/Podfile.lock",
+		"/Users/bryn/projects/_swift/NodeBehaviors/BehaviorController.swift",
+		"/Users/bryn/projects/_swift/NodeBehaviors/Behavior.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/OnContactBehavior.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/illumntr-the-game.sublime-project",
+		"/Users/bryn/projects/_swift/SwiftTilemap/Classes/TilemapObjectNodeFactory.swift",
+		"/Users/bryn/projects/_swift/Funky/Source/Operators.Misc.swift",
+		"/var/folders/p7/3zqtlrt92t5by9f186wbyp740000gn/T/ReactiveCocoaSwift.podspec",
+		"/Users/bryn/projects/_node.js/gistpod/gistpod.rb",
+		"/Users/bryn/projects/_swift/SwiftDataStructures/Pods/Nimble/Nimble/Matchers/BeEmpty.swift",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/Gist/README.md",
+		"/Users/bryn/projects/_swift/Funky/Source/MultiError.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Cartfile",
+		"/Users/bryn/projects/_swift/ArmsControl/Cartfile",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-commands",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/bryn/projects/_swift/ArmsControl/ArmsControlTests/ArmsControlTests.swift",
+		"/Users/bryn/projects/_swift/UpdateTimer/Classes/UpdateTimer.swift",
+		"/Users/bryn/projects/_swift/UpdateTimer/UpdateTimer.sublime-project",
+		"/Users/bryn/projects/_swift/UpdateTimer/UpdateTimer.podspec",
+		"/Users/bryn/projects/_swift/SwiftDataStructures/Podfile",
+		"/Users/bryn/projects/_swift/SwiftDataStructures/SwiftDataStructures.podspec",
+		"/Users/bryn/projects/_swift/SwiftDataStructures/SwiftDataStructures.sublime-project",
+		"/Users/bryn/projects/_swift/SwiftBitmask/build/Intermediates/Pods.build/Debug/Pods-SwiftDataStructures.build/SwiftDataStructures-all-target-headers.hmap",
+		"/Users/bryn/projects/_swift/Funky/build/ModuleCache/17ZY6XBKEVQZP/DiskArbitration-3UG471J3HYX3N.pcm",
+		"/Users/bryn/projects/_swift/BrynSwift/build/BrynSwift.build/Release/BrynSwift.build/dgph",
+		"/Users/bryn/projects/_swift/illumntr-the-game/illumntr-the-game/Info.plist",
+		"/Users/bryn/projects/_swift/SwiftBitmask/build/Intermediates/Pods.build/Debug/Pods-SwiftDataStructures.build/Objects-normal/x86_64/Pods-SwiftDataStructures-OutputFileMap.json",
+		"/Users/bryn/projects/_swift/SwiftBitmask/Pods/Target Support Files/Pods-SwiftDataStructures/Pods-SwiftDataStructures.xcconfig",
+		"/Users/bryn/projects/_swift/SwiftBitmask/Pods/Local Podspecs/SwiftDataStructures.podspec",
+		"/Users/bryn/projects/_swift/illumntr-the-game/build/ModuleCache/17ZY6XBKEVQZP/SwiftDataStructures-FXVW715091PG.pcm",
+		"/Users/bryn/projects/_swift/SwiftBitmask/build/Intermediates/Pods.build/Debug/Pods.build/Pods-generated-files.hmap",
+		"/Users/bryn/projects/_swift/BrynSwift/build/Intermediates/Pods.build/Debug/Pods.build/Pods-generated-files.hmap",
+		"/Users/bryn/projects/_swift/Funky/build/Intermediates/Pods.build/Debug/Pods.build/Pods-generated-files.hmap",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Podfile.lock",
+		"/Users/bryn/projects/_swift/ArmsControl/Podfile.lock",
+		"/Users/bryn/projects/_swift/SpriteAnimations/Podfile.lock",
+		"/Users/bryn/projects/_swift/SpriteSteering/Podfile.lock",
+		"/Users/bryn/projects/_swift/SwiftConfig/Podfile.lock",
+		"/Users/bryn/projects/_swift/SwiftBitmask/Podfile.lock",
+		"/Users/bryn/projects/_swift/BrynSwift/Podfile.lock",
+		"/Users/bryn/projects/_swift/SpriteAnimations/Podfile",
+		"/Users/bryn/projects/_swift/SpriteSteering/Podfile",
+		"/Users/bryn/projects/_swift/SwiftConfig/Podfile",
+		"/Users/bryn/projects/_swift/SwiftBitmask/Podfile",
+		"/Users/bryn/projects/_swift/SwiftLogger/Podfile",
+		"/Users/bryn/projects/_swift/BrynSwift/Podfile",
+		"/Users/bryn/projects/_swift/Funky/Podfile",
+		"/Users/bryn/projects/_swift/Funky/Funky.podspec",
+		"/Users/bryn/projects/_swift/BrynSwift/BrynSwift.podspec",
+		"/Users/bryn/projects/_swift/Funky/.gitignore",
+		"/Users/bryn/projects/_swift/SwiftConfig/Classes/IConfigLayer.swift",
+		"/Users/bryn/projects/_obj-c/JSTilemap/JSTileMap/JSTilemap.sublime-project",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/syntax_fold.sublime-settings",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/SyntaxFold/syntax_fold.sublime-settings",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/Source Code Structure Navigator/SourceCodeStructureNavigator.py",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/SyntaxFold/SyntaxFold.py",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/SyntaxFold/README.md",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/Syntax Manager/README.md",
+		"/Users/bryn/projects/_swift/SpriteSteering/Pods/SwiftDataStructures/Classes/Stack.swift",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages\\User\\syntax_fold.sublime-settings",
+		"/Users/bryn/projects/_swift/illumntr-the-game/build/Intermediates/Pods.build/Debug/Pods-SwiftTilemap.build/SwiftTilemap-all-target-headers.hmap",
+		"/Users/bryn/projects/_swift/SwiftTilemap/SwiftTilemap.h",
+		"/Users/bryn/projects/_swift/SpriteSteering/SpriteSteering.podspec",
+		"/Users/bryn/projects/_swift/Funky/Source/Functional.Functions.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/build/ModuleCache/17ZY6XBKEVQZP/MoarBehaviors-1UGZZAW47GRE3.pcm",
+		"/Users/bryn/projects/_swift/MoarBehaviors/MoarBehaviors.podspec",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Pods/Target Support Files/Pods-Funky/Pods-Funky-umbrella.h",
+		"/Users/bryn/projects/_node.js/illumntr-cli-tools/lib/illumntr-id3.js",
+		"/Users/bryn/projects/_node.js/illumntr-cli-tools/lib/illumntr-encode.js",
+		"/Users/bryn/projects/_node.js/illumntr-cli-tools/index.js",
+		"/Users/bryn/projects/_swift/illumntr-the-game/illumntr-the-game/Resources/Images/Texture atlasses/rename-sprites.js",
+		"/Users/bryn/projects/_swift/MoarNodes/Classes/Text boxes/TextBoxNode.swift",
+		"/Users/bryn/projects/_swift/BrynSwift/Classes/Operators.Assignment.swift",
+		"/Users/bryn/projects/_swift/Funky/Source/Operators.pipe.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/MoarBehaviors.h",
+		"/Users/bryn/projects/_swift/MoarNodes/MoarNodes.podspec",
+		"/Users/bryn/projects/_swift/Funky/build/ModuleCache/17ZY6XBKEVQZP/MachO-3IBZCXEA2T2ZS.pcm",
+		"/Users/bryn/projects/_swift/SwiftLogger/SwiftLogger.sublime-project",
+		"/Users/bryn/projects/_swift/BrynSwift/Classes/Signals.swift",
+		"/Users/bryn/projects/_swift/SpriteAnimations/build/ModuleCache/17ZY6XBKEVQZP/SwiftBitmask-2RBOYLWJFQQ71.pcm",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Pods/Target Support Files/Pods-GameObjects/Pods-GameObjects-dummy.m",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Pods/Target Support Files/Pods-GameObjects/Pods-GameObjects.modulemap",
+		"/Users/bryn/projects/_swift/MoarNodes/MoarNodes.h",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Makefile",
+		"/Users/bryn/projects/_swift/GameObjects/GameObjects.h",
+		"/Users/bryn/projects/_swift/GameObjects/build/GameObjects.build/Release/GameObjects.build/GameObjects-all-target-headers.hmap",
+		"/Users/bryn/projects/_swift/Funky/Gemfile",
+		"/Users/bryn/projects/_swift/MoarNodes/Classes/Scene.swift",
+		"/Users/bryn/projects/_swift/SpriteSteering/Classes/SteeringController.swift",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/PhysicsWorldDelegate.swift",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/SKNode+NodeGraphEvents.swift",
+		"/Users/bryn/projects/_swift/GameObjects/Classes/EventController.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/illumntr-the-game/Classes/CharacterNode.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/RunBlockOnContactBehavior.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/ProjectileBehavior.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/FollowBehavior.swift",
+		"/Users/bryn/projects/_swift/MoarBehaviors/BlinkBehavior.swift",
+		"/Users/bryn/projects/_swift/MoarNodes/Classes/Text boxes/TextBoxController.swift",
+		"/Users/bryn/projects/_swift/MoarNodes/Classes/Misc. SKNode subclasses/CameraNode.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/illumntr-the-game/Classes/Scripting/JSExported interfaces/TextBoxNode+JSExport.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/Pods/Signals/Signals/Signal.swift",
+		"/Users/bryn/projects/_swift/RxSwift/RxSwift/Signal.swift",
+		"/Users/bryn/projects/_swift/illumntr-the-game/build/ModuleCache/17ZY6XBKEVQZP/SwiftTilemap-IH6ZJZJUQZXZ.pcm",
+		"/Users/bryn/projects/_swift/Funky/Source/Operators.apply.swift",
+		"/Users/bryn/projects/_swift/BrynSwift/BrynSwiftTests/OperatorTests.swift",
+		"/Users/bryn/projects/_swift/GameObjects/GameObjects.sublime-project",
+		"/Users/bryn/projects/_swift/Funky/Source/Operators.compose.swift",
+		"/Users/bryn/projects/_swift/Funky/Source/Operators.fmap.swift",
+		"/Users/bryn/projects/_swift/FlatUIColors/SwiftFlatUIColors.podspec",
+		"/Users/bryn/projects/_swift/SwiftLogger/SwiftLogger.podspec",
+		"/Users/bryn/projects/_swift/SwiftBitmask/SwiftBitmask.podspec",
+		"/Users/bryn/projects/_swift/SwiftBitmask/Pods/Local Podspecs/SwiftConfig.podspec",
+		"/Users/bryn/projects/_swift/SwiftConfig/SwiftConfig.podspec"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"<project>,*.swift",
+			"<project>",
+			"<project>,*.swift",
+			"<project>,*.h",
+			"<project>,*.swift",
+			"<project>",
+			"<project>,*.xml",
+			"<project>",
+			"<project>,*.java",
+			"<project>,*.xml",
+			"<project>,*.java",
+			"<project>",
+			"<project>,*.xml",
+			"<project>,*.java",
+			"<project>",
+			"",
+			"<project>",
+			"",
+			"/tmp/zing.txt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"font_size",
+			"operator",
+			"operator\n",
+			"array-literal",
+			"sym",
+			"\"",
+			"githubusercontent",
+			"Star",
+			"SwiftLogger",
+			"SwiftConfig",
+			"Config",
+			"FlatUIColors",
+			"Bitmask",
+			"Logger",
+			"GameObjects",
+			"'",
+			"//‡",
+			"//-",
+			"//_",
+			"//#",
+			"//.",
+			"//..",
+			"section",
+			"comment",
+			"meta.identifier.object.",
+			"meta.identifier.object",
+			"all_patterns",
+			"object_keyword",
+			"all_patterns",
+			"getRegionToTextInView",
+			"RegionToTextInView",
+			"extension",
+			"MARK",
+			" :",
+			"Stack",
+			"Error :",
+			"Stack",
+			"take",
+			"find",
+			", '",
+			"w",
+			"%",
+			".listen",
+			".fire",
+			".listen",
+			"== true ",
+			".listen",
+			"Signal<",
+			"Signal <",
+			"Signal<",
+			"podspec",
+			"githubusercontent",
+			"@@TODO",
+			"import BrynSwift",
+			"s.homepage",
+			"platform :osx",
+			"closure",
+			"shorthan",
+			"entity.name.type.generic-par",
+			"type-spec",
+			"(?",
+			"generic-parameter-list-declaration-where-clause",
+			"type-constraint:",
+			"generic-parameter-list-declaration",
+			"function-de",
+			"operator-name-c",
+			"generic-parameter-list-d",
+			"generic",
+			"\n    ",
+			"<^>",
+			">>-",
+			"xs",
+			"maybeValue",
+			"unwrap_error",
+			"unwrap_value",
+			"is_failure",
+			"is_success",
+			"SwiftSets",
+			"SwiftConfig",
+			"func",
+			"protocol",
+			"keyword:",
+			"class-definition",
+			"proto",
+			"class",
+			"#func",
+			"method:",
+			"#method",
+			"method",
+			"protocol",
+			"builtin-coregraphics-constants",
+			"builtin-foundation-constants",
+			"builtin-constants",
+			"literals",
+			"coregraphics-types",
+			"builtin-con",
+			"builtin",
+			"function-call",
+			"built",
+			"switch",
+			"punctuation.definition.",
+			"punctuation",
+			"case",
+			"keyword:",
+			"\n-",
+			"\n    ",
+			"extension",
+			"IBitmaskRawType",
+			"creep",
+			"newCreep",
+			"nname",
+			"filesWith",
+			"forceMouse",
+			"- (void)",
+			"   */",
+			"/**",
+			"BOOL",
+			"var",
+			"@property \\(.*\\)",
+			"readonly",
+			"@property \\(.*\\)",
+			"@property\\s(",
+			"public",
+			"public ",
+			"public",
+			"public func",
+			"public ",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n\n-",
+			"var",
+			" ",
+			"",
+			" #",
+			"  ",
+			"    ",
+			"#main-header-menu",
+			"carousel-illumntr-home",
+			"    ",
+			"        ",
+			"^        ",
+			"public static IDataStoreManager SharedDataStoreManager()",
+			"background",
+			"\\n-",
+			"com.signalenvelope.ListKit.AutoResizeTextView",
+			"SharedDataStoreManager()",
+			"getListViewRowTextResourceID",
+			"getListViewRowLayoutID",
+			"SearchString",
+			"fetchItemWithID",
+			"fetchParentOfItem",
+			"fetchTopLevelItems",
+			"fetchChildrenOfItemWithID",
+			"fetchNumberOfChildrenForItem",
+			"fetchAllItems",
+			"ShipsListDataStore",
+			"IDataStore",
+			"IDataStoreManager",
+			"CachingDataStoreManager",
+			"DataStoreManager",
+			"shared",
+			"layout_toStartOf=\"@+id/imgSwitchAppSections\"",
+			"txtTitleApp",
+			"raw/icon_search",
+			"@drawable/blue_titlebar",
+			"L3Utils.INTENT_EXTRA__ITEM_TO_LOAD",
+			"fetchItemWithID",
+			"fetchNumberOfChildrenForItem",
+			"fetchAllItems",
+			"this.addItem( shipListItem_\\1 );",
+			"data.put",
+			"activityClassToHandleTappedListItem",
+			"ShipsDB",
+			"shared",
+			"</div>",
+			"<div class=\"title\">",
+			"div class=\"title\"",
+			"&amp;",
+			"</a></div>",
+			"<div class=\"contact-method\"><a ",
+			"",
+			"class=\"item\"",
+			"",
+			"</div>",
+			"<div",
+			"date",
+			"",
+			"&amp;",
+			"",
+			"</div>",
+			"<div> • ",
+			"&amp;",
+			"initializeData(",
+			"L3-SRG",
+			"InMemoryDBHelper",
+			"Copyright (c) 2013 bryn austin bellomy",
+			"FetchShipsAsyncTask",
+			"txtListItemCellText",
+			"com/signalenvelope",
+			"com.signalenvelope.L3_SRG",
+			"com.signalenvelope.L3-SRG",
+			"[\"super+i\",",
+			"sg_message_inbox",
+			"remoterepository",
+			"bryn.bellomy@gmail.com",
+			"bryn.bellomy@gmail.com-remote",
+			"bryn.bellomy@gmail.com-local",
+			"'",
+			"Earl",
+			"\\(prefix, files",
+			"log_success \"\\1\"",
+			"log_task \"\\1\"",
+			"queueCb",
+			"errCb",
+			"renumber",
+			"pngs",
+			"pngs.",
+			"module.exports.",
+			"exports.renumber",
+			"exports.stepFilter",
+			"exports.copyAllFilesInDirTo",
+			"exports.removeTempDir",
+			"exports.makeDirs",
+			"exports.makeMatte",
+			"exports.filesWithPrefix",
+			"inputDir",
+			"inputDirectory",
+			"[[:space:]]*",
+			"#{@\\1}",
+			"#{\\1}",
+			"#{@acceptable_chars_in_regular_statements}",
+			"#{@identifier}",
+			"#{@type}",
+			"#{@l_bracket}",
+			"#{@r_paren}",
+			"#{@r_bracket}",
+			"#{@r_paren}",
+			"#{@l_paren}",
+			"#{@sp}",
+			"#{sp}",
+			",\\n",
+			"bool",
+			"bool\nbool",
+			"NSNotificationCenter.defaultCenter",
+			"\"",
+			"blue.bold",
+			"mkCopyMsg",
+			"stages",
+			"otis",
+			"Otis",
+			"otis",
+			"-",
+			"Otis",
+			"otis",
+			"inPath_colorSchemeCSS",
+			"inPath_scriptJS",
+			"outPath_docScriptJS"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 610.0
+	},
+	"output.package_dev":
+	{
+		"height": 116.0
+	},
+	"project": "GameObjects.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".pod",
+				"GameObjects.podspec"
+			],
+			[
+				"podfile",
+				"<project root>/Podfile"
+			],
+			[
+				"oncontac",
+				"MoarBehaviors/OnContactBehavior.swift"
+			],
+			[
+				"behavio",
+				"NodeBehaviors/Behavior.swift"
+			],
+			[
+				"behaviorcon",
+				"NodeBehaviors/BehaviorController.swift"
+			],
+			[
+				"cartfil",
+				"<project root>/Cartfile"
+			],
+			[
+				"carta",
+				"ArmsControl/ArmsControlTests/ArmsControlTests.swift"
+			],
+			[
+				"datastrupodfile",
+				"SwiftDataStructures/Podfile"
+			],
+			[
+				"illu",
+				"<project root>/illumntr-the-game.sublime-project"
+			],
+			[
+				"armscon",
+				"ArmsControl/ArmsControl.podspec"
+			],
+			[
+				"armspodfile",
+				"ArmsControl/Podfile"
+			],
+			[
+				"illumn",
+				"<project root>/illumntr-the-game.sublime-project"
+			],
+			[
+				"stack",
+				"SpriteSteering/Pods/SwiftDataStructures/Classes/Stack.swift"
+			],
+			[
+				"multierr",
+				"Funky/Source/MultiError.swift"
+			],
+			[
+				"func",
+				"Funky/Source/Functional.Functions.swift"
+			],
+			[
+				"moarbeha",
+				"MoarBehaviors/MoarBehaviors.podspec"
+			],
+			[
+				"spritest",
+				"SpriteSteering/SpriteSteering.podspec"
+			],
+			[
+				"moarnodes",
+				"MoarNodes/MoarNodes.podspec"
+			],
+			[
+				"gameob",
+				"GameObjects/GameObjects.podspec"
+			],
+			[
+				"signal.swift",
+				"Pods/Signals/Signals/Signal.swift"
+			],
+			[
+				"signals",
+				"BrynSwift/Classes/Signals.swift"
+			],
+			[
+				"operators.misc",
+				"Funky/Source/Operators.Misc.swift"
+			],
+			[
+				"nserror",
+				"BrynSwift/Extensions/NSError+Coalescing.swift"
+			],
+			[
+				"compose",
+				"Funky/Source/Operators.Compose.swift"
+			],
+			[
+				"functional.",
+				"Funky/Source/Functional.AirspeedVelocity.swift"
+			],
+			[
+				"sidebar",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/SidebarItem.swift"
+			],
+			[
+				"playviewcon",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController.swift"
+			],
+			[
+				"playlist.m",
+				"illumntr-music-player/illumntr-music-player/Classes/NSManagedObject subclasses/human/Playlist.m"
+			],
+			[
+				"",
+				"illumntr-music-player/.attic/SEAudioManager.m"
+			],
+			[
+				"collec",
+				"illumntr-music-player/illumntr-music-player/Classes/Extensions/Collections+BrynKit.swift"
+			],
+			[
+				"playlistviewcon",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController.swift"
+			],
+			[
+				"bryn.",
+				"BrynKit/Main/Bryn.m"
+			],
+			[
+				"playviemo",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"trackom",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/TrackModel.swift"
+			],
+			[
+				"+pxswi",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"playcolcellswi",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistCollectionViewCell.swift"
+			],
+			[
+				"playm",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistModel.swift"
+			],
+			[
+				"playviewmo",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"collec.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Extensions/Collections+BrynKit.swift"
+			],
+			[
+				"cell.swif",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistCollectionViewCell.swift"
+			],
+			[
+				"playlistmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistModel.swift"
+			],
+			[
+				"playlistviewmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"+pxsou",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"pxsourlistdel",
+				"illumntr-music-player/Pods/BuildHeaders/PXSourceList/PXSourceListDelegate.h"
+			],
+			[
+				"audiom",
+				"illumntr-music-player/illumntr-music-player/Classes/Audio/AudioManager.swift"
+			],
+			[
+				"masterr",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/SEMasterViewController.swift"
+			],
+			[
+				"appconfig",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/AppConfiguration.swift"
+			],
+			[
+				"appdel.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/AppDelegate.swift"
+			],
+			[
+				"common",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/Common.swift"
+			],
+			[
+				"trackmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/TrackModel.swift"
+			],
+			[
+				"modelbase",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/ModelBase.swift"
+			],
+			[
+				"collectio",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"bridging",
+				"illumntr-music-player/illumntr-music-player/illumntr-music-player-Bridging-Header.h"
+			],
+			[
+				"pxsourcelist",
+				"illumntr-music-player/Pods/BuildHeaders/PXSourceList/PXSourceList.h"
+			],
+			[
+				"semaster+px",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"semastr",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.swift"
+			],
+			[
+				"appdele",
+				"illumntr-music-player/illumntr-music-player/Classes/AppDelegate.swift"
+			],
+			[
+				"audiopla",
+				"illumntr-music-player/illumntr-music-player/Classes/AudioPlayerDelegateWrapper.m"
+			],
+			[
+				"brynkitlog",
+				"BrynKit/Main/BrynKitLogging.h"
+			],
+			[
+				"coll",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"ezaudioplayer",
+				"illumntr-music-player/Pods/BuildHeaders/EZAudio/EZAudioPlayer.h"
+			],
+			[
+				"seaudio",
+				"illumntr-music-player/illumntr-music-player/Classes/SEAudioManager.m"
+			],
+			[
+				"track.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Models/human/Track.swift"
+			],
+			[
+				"track",
+				"illumntr-music-player/illumntr-music-player/Classes/Track.swift"
+			],
+			[
+				"signal",
+				"illumntr-music-player/illumntr-music-player/Classes/Signal+BrynKit.swift"
+			],
+			[
+				"seplayliscol",
+				"illumntr-music-player/illumntr-music-player/Classes/SEPlaylistCollectionViewCell.swift"
+			],
+			[
+				"observable",
+				"illumntr-music-player/illumntr-music-player/Classes/SEObservableModel.swift"
+			],
+			[
+				"se.swift",
+				"illumntr-music-player/illumntr-music-player/SEPlaylistItem.swift"
+			],
+			[
+				"collection",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"seplaylistmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/SEPlaylistModel.m"
+			],
+			[
+				"masterview+",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController+JNWCollectionView.swift"
+			],
+			[
+				"semas.m",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.m"
+			],
+			[
+				"semas.swi",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.swift"
+			],
+			[
+				"brynkitcolor",
+				"Main/BrynKitColor.h"
+			],
+			[
+				"illumntr.css",
+				"public/stylesheets/illumntr.css"
+			],
+			[
+				"illu-va",
+				"public/stylesheets/illumntr-variables.less"
+			],
+			[
+				"illuelem",
+				"public/stylesheets/illumntr-elements.less"
+			],
+			[
+				"ill.less",
+				"public/stylesheets/illumntr.less"
+			],
+			[
+				"heade",
+				"views/partials/header.jade"
+			],
+			[
+				"slide-mus",
+				"views/partials/slides/slide-music.jade"
+			],
+			[
+				"slid-sho",
+				"views/partials/slides/slide-shows.jade"
+			],
+			[
+				"mixin",
+				"views/mixins.jade"
+			],
+			[
+				"ill-var",
+				"public/stylesheets/illumntr-variables.less"
+			],
+			[
+				"varia",
+				"public/stylesheets/variables.less"
+			],
+			[
+				"illu.css",
+				"public/stylesheets/src/illumntr.css"
+			],
+			[
+				"slide-abou",
+				"views/partials/slides/slide-about.jade"
+			],
+			[
+				"elemen",
+				"public/stylesheets/src/illumntr-elements.less"
+			],
+			[
+				"mixi",
+				"views/mixins.jade"
+			],
+			[
+				"slide-musi",
+				"views/partials/slides/slide-music.jade"
+			],
+			[
+				"illum.less",
+				"public/stylesheets/src/illumntr-variables.less"
+			],
+			[
+				"illu.less",
+				"public/stylesheets/src/illumntr-elements.less"
+			],
+			[
+				"header.jad",
+				"views/partials/header.jade"
+			],
+			[
+				"inde.",
+				"views/index.jade"
+			],
+			[
+				"illeleme",
+				"public/stylesheets/src/illumntr-elements.less"
+			],
+			[
+				"slide-about",
+				"views/partials/slides/slide-about.jade"
+			],
+			[
+				"mixins.jade",
+				"views/mixins.jade"
+			],
+			[
+				"main-menu.jade",
+				"views/partials/carousel-main-menu.jade"
+			],
+			[
+				"ill-ele",
+				"public/stylesheets/src/illumntr-elements.less"
+			],
+			[
+				"carousel.ja",
+				"views/partials/carousel-home.jade"
+			],
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"illumntr.less",
+				"public/stylesheets/src/illumntr.less"
+			],
+			[
+				"bootstrap.less",
+				"public/bootstrap/less/bootstrap.less"
+			],
+			[
+				"app.co",
+				"app.coffee"
+			],
+			[
+				"ill-vari",
+				"stylesheets/illumntr-variables.less"
+			],
+			[
+				"mixins",
+				"views/mixins.jade"
+			],
+			[
+				"slide-shows",
+				"views/partials/slides/slide-shows.jade"
+			],
+			[
+				"illumntr-wix",
+				"stylesheets/illumntr-wix.less"
+			],
+			[
+				"element",
+				"stylesheets/illumntr-elements.less"
+			],
+			[
+				"slide-",
+				"views/partials/slides/slide-about.jade"
+			],
+			[
+				"illu-.less",
+				"stylesheets/illumntr-variables.less"
+			],
+			[
+				"bootstrap.css",
+				"public/stylesheets/bootstrap.css"
+			],
+			[
+				"illu-eel",
+				"stylesheets/illumntr-elements.less"
+			],
+			[
+				"index.jade",
+				"views/index.jade"
+			],
+			[
+				"layout.jade",
+				"views/layout.jade"
+			],
+			[
+				"illvar",
+				"stylesheets/illumntr-variables.less"
+			],
+			[
+				"illelem",
+				"stylesheets/illumntr-elements.less"
+			],
+			[
+				"bootstrap.js",
+				"public/javascripts/bootstrap.js"
+			],
+			[
+				"layout.j",
+				"views/layout.jade"
+			],
+			[
+				"conta",
+				"assets/page-contact-us.html"
+			],
+			[
+				"comm",
+				"assets/page-commercial-marine-systems.html"
+			],
+			[
+				"event",
+				"assets/page-events.html"
+			],
+			[
+				"shiplist",
+				"src/com/signalenvelope/L3_SRG/ShipsListItem.java"
+			],
+			[
+				"shiplistitem",
+				"src/com/signalenvelope/L3_SRG/ShipsListItem.java"
+			],
+			[
+				"shipdeta",
+				"src/com/signalenvelope/L3_SRG/ShipDetailActivity.java"
+			],
+			[
+				"static_page",
+				"res/layout/static_page.xml"
+			],
+			[
+				"static_",
+				"res/layout-large/static_page.xml"
+			],
+			[
+				"dimen",
+				"res/values/dimens.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/bryn/projects/_android/recipes/recipes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User"
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
