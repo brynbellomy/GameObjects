@@ -11,14 +11,21 @@ import SpriteKit
 import NodeBehaviors
 
 
-/** A Component for existential (and semi-existential) traits. */
+/** Represents a type that has existential traits, such as a name, a certain number of hit points, and a location in physical space. */
+@objc
+public protocol IExistent: class
+{
+    var existentialComponent: ExistentialComponent { get set }
+}
 
-public struct ExistentialComponent
+/** A component for existential (and semi-existential) traits. */
+@objc
+public class ExistentialComponent
 {
     public typealias HPType = Double
 
     public var name: String = "Mishiakuwan"
-    public var HP: HPType = 0
+    public var HP: HPType = 100
     public var position: CGPoint? { return node?.position }
 
 
