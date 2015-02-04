@@ -1,0 +1,6 @@
+framework module SwiftConfig {
+  umbrella header "Pods-GameObjects-SwiftConfig-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module UpdateTimer {
+  umbrella header "Pods-GameObjects-UpdateTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
