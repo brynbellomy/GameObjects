@@ -1,9 +1,0 @@
-Helpers.swift
-	public struct Helpers
-	public enum KeyCode: UInt16
-	public init?(keyCode:UInt16)
-	public static func bundleFilename(filename:String) -> String?
-	public static func bundleFilename(basename:String, _ ext:String) -> String?
-	public static func normalizeRadians(radians:CGFloat) -> CGFloat
-	public static func normalizeRadians(r:Double) -> Double
-	public static func getMainWindowCenterPoint() -> CGPoint?
