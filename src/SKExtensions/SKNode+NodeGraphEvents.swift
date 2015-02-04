@@ -18,9 +18,10 @@ private let SignalsKey = AssociatedObjectComponent.CreateKey()
 
 public extension SKNode
 {
-    /**
-        MARK: Signals
-     */
+    //
+    // MARK: - Signals
+    //
+
     public class Signals
     {
         public init() {}
@@ -44,12 +45,12 @@ public extension SKNode
         }
     }
 
-    /** This method is intended to be overridden by subclasses. */
+    /** This method is intended to be overridden by subclasses.  However, subclasses must still be sure to call `super.didMoveToParent()`. */
     public func didMoveToParent() {
         signals.didMoveToParent.fire()
     }
 
-    /** This method is intended to be overridden by subclasses. */
+    /** This method is intended to be overridden by subclasses.  However, subclasses must still be sure to call `super.willMoveFromParent()`. */
     public func willMoveFromParent() {
         signals.willMoveFromParent.fire()
     }
@@ -76,18 +77,24 @@ public extension SKNode
     }
 
 
-    // @@TODO : how to call this with generics?
     public func removeFromParentAndNotify()
     {
-        willMoveFromParent()
-        willMoveFromScene()
-        removeFromParent()
+        if let parent = parent
+        {
+            willMoveFromParent()
+
+            if let scene = scene? {
+                willMoveFromScene()
+            }
+
+            removeFromParent()
+        }
     }
 
 
     public func removeAllChildrenAndNotify()
     {
-        for child in self.children as [SKNode] {
+        for child in children as [SKNode] {
             child.willMoveFromParent()
             child.willMoveFromScene()
         }
@@ -111,6 +118,25 @@ public extension SKNode
         }
 
         removeChildrenInArray(childrenToRemove)
+    }
+
+
+    public func getFormattedDescendantGraph() -> String
+    {
+        let nodeChildren = children as [SKNode]
+        let childGraphs: [String] = nodeChildren |> map‡ { child in
+            let childGraph  = child.children.count > 0 ? child.getFormattedDescendantGraph() : "[]"
+            return "\(child): \(childGraph)"
+        }
+
+        return describe(childGraphs)
+
+//        var dump: [String] = []
+//        dump.append("\(self)")
+//
+//        enumerateChildNodesWithName("//*") { dump.append("\($0)") }
+//
+//        return "\n".join(dump)
     }
 }
 

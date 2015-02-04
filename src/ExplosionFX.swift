@@ -1,5 +1,5 @@
 //
-//  Explosion.swift
+//  ExplosionFX.swift
 //  GameObjects
 //
 //  Created by bryn austin bellomy on 2015 Jan 28.
@@ -10,7 +10,7 @@ import Foundation
 import SpriteKit
 
 
-public struct Explosion
+public struct ExplosionFX
 {
     public let emitter:  SKEmitterNode
     public let duration: NSTimeInterval

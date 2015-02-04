@@ -42,7 +42,7 @@ public class EventComponent
 
     public func removeEventHandler(eventHandler:EventHandler)
     {
-        if let handler = events[eventHandler.uuid]?
+        if let handler = events[eventHandler.uuid]
         {
             if handler.manager === self {
                 handler.manager = nil

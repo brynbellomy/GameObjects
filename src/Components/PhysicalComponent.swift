@@ -12,6 +12,11 @@ import Funky
 import Signals
 
 
+/**
+    A component that serves as the `SKPhysicsContactDelegate` for a scene.  It provides
+    two signals: `didBeginContact` and `didEndContact`, which fire any time there is a
+    physics contact in the scene.
+ */
 public class PhysicalComponent: NSObject, SKPhysicsContactDelegate
 {
     //
@@ -25,6 +30,7 @@ public class PhysicalComponent: NSObject, SKPhysicsContactDelegate
         public let didEndContact   = Signal<SKPhysicsContact>()
     }
 
+    /** The subscribable signals published by the `PhysicalComponent`.  Subscribe to these to receive notifications when contact events occur in the scene.*/
     public let signals = Signals()
 
     //

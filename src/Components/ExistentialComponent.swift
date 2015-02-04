@@ -8,7 +8,7 @@
 
 import Foundation
 import SpriteKit
-import NodeBehaviors
+import Entish
 
 
 /** Represents a type that has existential traits, such as a name, a certain number of hit points, and a location in physical space. */
@@ -20,21 +20,31 @@ public protocol IExistent: class
 
 /** A component for existential (and semi-existential) traits. */
 @objc
-public class ExistentialComponent
+public class ExistentialComponent: IComponent
 {
     public typealias HPType = Double
 
+    public let systemID: SystemID = 1 << 5
+    public var entityID: Entity.EntityID
+
     public var name: String = "Mishiakuwan"
     public var HP: HPType = 100
-    public var position: CGPoint? { return node?.position }
+    public var position = CGPointZero //? { return node?.position }
 
 
-    public weak var node: SKNode?
+//    public weak var node: SKNode?
 
-    public init() {
-    }
+//    public init(node n:SKNode) {
+//        node = n
+//    }
 
-    public init(node n:SKNode) {
-        node = n
+    public init(entityID eid:Entity.EntityID) {
+        entityID = eid
     }
 }
+
+
+
+
+
+

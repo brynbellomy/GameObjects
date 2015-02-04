@@ -15,6 +15,12 @@ import SwiftConfig
 import SwiftBitmask
 
 
+/**
+    Builds an `SKPhysicsBody` from the values of its properties.  The builder's properties can either be set manually,
+    one at a time, or by passing a `SwiftConfig.Config` object to the `configure()` function.  If the builder is asked
+    to `build()` before it has enough parameters to build the physics body, it will return an error indicating which
+    parameters it is missing.
+ */
 public struct SKPhysicsBodyBuilder
     <T: IBitmaskRepresentable where T: IConfigRepresentable, T.BitmaskRawType == UInt32> : IConfigurableBuilder
 {
@@ -31,18 +37,38 @@ public struct SKPhysicsBodyBuilder
     public var dynamic            : Bool?
 
 
+    /** The designated initializer. */
     public init() {
     }
 
 
+    /**
+        Attempts to build the `SKPhysicsBody` with whatever properties have been supplied to the builder.
+
+        :returns: a `LlamaKit.Result` containing either the `SKPhysicsBody` or an error.
+    */
     public func build() -> Result<SKPhysicsBody>
     {
-        return initializeBody().flatMap { body in
-            return success(self.applyPropertiesToBody(body))
-        }
+        return initializeBody().flatMap { success(self.applyPropertiesToBody($0)) }
     }
 
 
+    /**
+        Initializes the builder's properties using values in the provided `SwiftConfig.Config`.  The valid property keys
+        that the config object is searched for are all `String`s:
+
+        - `categories`: populates the `categoryBitmask` property (`Bitmask<T>`)
+        - `collides with`: populates the `categoryBitMask` property (`Bitmask<T>`)
+        - `contact test`: populates the `collisionBitMask` property (`Bitmask<T>`)
+        - `allows rotation`: populates the `allowsRotation` property (`Bool`)
+        - `dynamic`: populates the `dynamic` property (`Bool`)
+        - `shape`: populates the `shape` property (`SKPhysicsBodyShape`)
+        - `radius`: populates the `radius` property (`CGFloat`)
+        - `center x`: populates the `center` property's `x` value (`CGFloat`)
+        - `center y`: populates the `center` property's `y` value (`CGFloat`)
+        - `width`: populates the `size` property's `width` value (`CGFloat`)
+        - `height`: populates the `size` property's `height` value (`CGFloat`)
+     */
     public mutating func configure(config:Config)
     {
         categoryBitMask     =?? config.get("categories")
@@ -91,7 +117,7 @@ private func missingValueFailure <T> (key: String) -> Result<T> {
 }
 
 /**
-    These exist to provide curried versions of the various SKPhysicsBody constructors.
+    These functions exist to provide curried versions of the various SKPhysicsBody constructors.
  */
 private func createCircle(center:CGPoint)(radius:CGFloat) -> SKPhysicsBody {
     return SKPhysicsBody(circleOfRadius: radius, center: center)
